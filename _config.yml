@@ -1,0 +1,28 @@
+name: Beatrice
+favicon: null
+layout_spectrum: 0.4626047979108989
+typography_spectrum: 0.2849895474500954
+cta:
+  domain: null
+  bucket: null
+  version: null
+analytics:
+  google: null
+  facebook: null
+  twitter: null
+opengraph:
+  image: null
+  type: null
+  appId: null
+color:
+  brandColors:
+    - '#71A7FE'
+    - '#399AE7'
+    - '#3B407C'
+    - '#547AB1'
+    - '#CEAFC0'
+  brandStrength: 0.7220786937978119
+  lightness: 0.5818123451899737
+  saturation: 0.4760044312570244
+  rhythmicContrast: 0.07229925622232258
+purpose: []
